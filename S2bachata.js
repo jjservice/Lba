@@ -165,7 +165,7 @@ const songs = [
         "id": 24,
         "name": "El Amor Es Libre",
         "artist": "Yoskar Sarante",
-        "img": "yoskarpic33.jpg",
+        "img": "YoskarPIC.jpg",
         "music": "Yoskar Sarante-El Amor Es Libre.mp3"
     },
     {
@@ -263,7 +263,7 @@ const songs = [
         "id": 38,
         "name": "El Fracaso",
         "artist": "Richie Ortega",
-        "img": "RICHIORTEGAPICCC.jpg",
+        "img": "RichieOrtegaPic.jpg",
         "music": "Richie Ortega - El Fracaso.mp3"
     },
     {
